@@ -10,3 +10,8 @@ los moáis (del rapanui: moai, 'escultura') son estatuas monolíticas humanoides
 ![img](https://media.metrolatam.com/2019/04/02/observatorioalmachile-c97cbb3f2a9f04f20bf0f8f9465acb35-1200x800.jpg)
 
 El observatorio Alma es un Observaotio ubicado en chile
+
+## Santiago de chile
+![img](https://southjets.com/wp-content/uploads/2019/04/Blog_Post_Chile.jpg)
+
+A 567 metros sobre el nivel del mar, se ubica Santiago de Chile. Allí se concentra cerca del 35% de la población del país. Es la sexta área metropolitana más poblada de Hispanoamérica.

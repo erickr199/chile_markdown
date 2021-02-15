@@ -32,7 +32,9 @@ branch4_test
 <h4>Uwu</h4>
 <h1>awa</h1>
 
-
+<!DOCTYPE html>
+<html>
+  <body>
 <form class="" action="./php/control_formulario.php" method="post">
 
   
@@ -65,3 +67,5 @@ branch4_test
                
         </form>               
         </div>
+   </body>
+   </html>

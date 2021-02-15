@@ -31,3 +31,37 @@ branch4_test
 <h3>oWO</h3>
 <h4>Uwu</h4>
 <h1>awa</h1>
+
+
+<form class="" action="./php/control_formulario.php" method="post">
+
+  
+
+                        <label for="username">USERNAME, please: </label>
+                        <input class="txtinput" type="text" name="username" id="username" value="" required/>
+                        <br/>
+
+     
+                        <label for="password">PASSWORD: </label>
+                        <input class="txtinput" type="text" name="password" id="password" value="" required />
+                        <br/>
+
+                        <label for="nombre">NOMBRE: </label>
+                        <input class="txtinput" type="text" name="nombre" id="nombre" value="" required />
+                        <br/>
+
+
+                        <label for="apellido">APELLIDO: </label>
+                        <input class="txtinput" type="text" name="apellido" id="apellido" value="" required />
+                        <br/>
+
+
+                        <label for="date">Fecha Nacimiento: </label>
+                        <input class="txtinput" type="text" name="date" id="date" value="" required placeholder="YYYY-MM-DD" pattern="(?:19|20)(?:(?:[13579][26]|[02468][048])-(?:(?:0[1-9]|1[0-2])-(?:0[1-9]|1[0-9]|2[0-9])|(?:(?!02)(?:0[1-9]|1[0-2])-(?:30))|(?:(?:0[13578]|1[02])-31))|(?:[0-9]{2}-(?:0[1-9]|1[0-2])-(?:0[1-9]|1[0-9]|2[0-8])|(?:(?!02)(?:0[1-9]|1[0-2])-(?:29|30))|(?:(?:0[13578]|1[02])-31)))" />
+                        <br/>
+
+                        <input class="txtbtn" type="submit" name="submit" id="submit" value="Guardar" />
+                        <!-- <button type="submit" name="submit">Guardar</button> -->
+               
+        </form>               
+        </div>

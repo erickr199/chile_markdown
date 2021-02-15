@@ -27,14 +27,7 @@ Feature branch 2
 branch4_test
 
 **Este mensaje fue escrito directamente desde el master **: awa de uwu
-<<<<<<< HEAD
-treinta
-<h1>awa</h1>
-<h1>waw</h1>
-<h1>waa</h1>
-=======
 <h2>ewe</h2>
 <h3>oWO</h3>
 <h4>Uwu</h4>
-<h1>wea</h1>
->>>>>>> master
+<h1>awa</h1>
